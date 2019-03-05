@@ -1,0 +1,2 @@
+# Repositorio-Joomla
+BASE DE DATOS JOOMLA Y SU CARPETA
